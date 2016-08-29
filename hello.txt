@@ -1,7 +1,4 @@
 hello! GitHub
 
 Gitの操作方法について学んでいます。
-<<<<<<< HEAD
-=======
 branch_aの作業を完了しました
->>>>>>> branch_a
